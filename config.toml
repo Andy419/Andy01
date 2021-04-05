@@ -6,7 +6,10 @@ languageCode = "en-US"
 canonifyurls = false
 
 author = "Andrew Samoil"
+title = "Andrew Samoil"
 
+contentdir = "content"
+layoutdir = "layouts"
 publishdir = "docs"
 
 
@@ -14,7 +17,7 @@ publishdir = "docs"
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2021 Andrew Samoil"
+copyright = "&copy; 2021 Andrew Samoil"
 
 [params]
 
