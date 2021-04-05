@@ -1,0 +1,95 @@
+# Site settings
+baseurl = "https://Andy_Samoil.com"
+languageCode = "en-US"
+
+
+canonifyurls = false
+
+author = "Andrew Samoil"
+
+publishdir = "docs"
+
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2021 Andrew Samoil"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Andrew Samoil"
+  keywords = "Andrew Samoil"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/joe.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:aisamoil@ualberta.ca"
+
+      [[params.links.list1.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/andrew-samoil/"
+
+      [[params.links.list1.link]]
+        text = "Resume"
+        url = "/resume.pdf"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Instagram"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = ""
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = ""
+        url = "#"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Network"
+
+      [[params.links.list3.link]]
+        text = "Link One"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Two"
+        url = "#"
+
+      [[params.links.list3.link]]
+        text = "Link Three"
+        url = "#"
