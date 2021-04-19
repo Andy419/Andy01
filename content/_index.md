@@ -3,9 +3,15 @@ title = "Andrew Samoil"
 tagline = "Software Engineering Student"
 +++
 
-Rising Third Year Computer Software Engineering student @ University of Alberta.
+Third Year Computer Software Engineering student @ University of Alberta.
 
 Interested in Scalability, Distributed Systems, Tech and Cloud Infrastructure.
+
+## **Career Summary**
+
+- **Software Engineering Intern**, [Synergy](https://www.synergybuilds.com/)\
+  _C# .NET Framework_\
+  May, 2021 - Aug, 2021
 
 ## **Projects**
 - **Trivial Navigation System**\

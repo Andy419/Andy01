@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://Andy_Samoil.com"
+baseurl = ""
 languageCode = "en-US"
 
 
@@ -61,7 +61,7 @@ copyright = "&copy; 2021 Andrew Samoil"
 
       [[params.links.list1.link]]
         text = "Resume"
-        url = "/resume.pdf"
+        url = "images/resume.pdf"
 
   # Links List #2
   [[params.links]]
@@ -70,11 +70,11 @@ copyright = "&copy; 2021 Andrew Samoil"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
       [[params.links.list2.link]]
-        text = ""
-        url = "#"
+        text = "Youtube"
+        url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
       [[params.links.list2.link]]
         text = ""
@@ -86,13 +86,13 @@ copyright = "&copy; 2021 Andrew Samoil"
       heading = "Network"
 
       [[params.links.list3.link]]
-        text = "Link One"
+        text = "Github"
+        url = "https://github.com/Andy419"
+
+      [[params.links.list3.link]]
+        text = ""
         url = "#"
 
       [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
+        text = ""
         url = "#"
